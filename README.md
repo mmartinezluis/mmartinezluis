@@ -5,5 +5,5 @@ I enjoy learning new things and taking on challenges as they allow me to discove
 * I'm currenlty improving the codebase of or adding new features to my projects (feel free to contribute!)
 * Bachelor's degree in Chemical Engineering.
 
-## Connect with me 
-[Linkedin](https://www.linkedin.com/in/luis-martinez-mosquete)
+## Connect with me on LinkedIn:
+[!Linkedin](https://www.linkedin.com/in/luis-martinez-mosquete)
