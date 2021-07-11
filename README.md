@@ -17,3 +17,4 @@ I enjoy learning new things and taking on challenges as they allow me to discove
 [!linked](https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67)
 [!linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<img src="{https://camo.githubusercontent.com/2b904313e8a94a29dde1a57258684a3e07310da404ba076c29c2528b83edf730/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3137342f3137343835372e706e67}" />
