@@ -1,4 +1,4 @@
-# Hi! :smile:, I'm Luis
+# Hi :smile:, I'm Luis
 
 I enjoy learning new things and taking on challenges as they allow me to discover new ways of solving problems. Here is some more info about me:
 * I'm currenlty working on :rocket:React and Redux as part of the final module at the Flatiron School. 
