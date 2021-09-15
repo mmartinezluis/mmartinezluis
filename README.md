@@ -5,5 +5,5 @@ I enjoy learning new things and taking on challenges as they allow me to discove
 * Learning a ton from DevBlog --> all sorts of react hooks, custom hooks, using, managing state and customizing a text editor (Draft JS, a painstaking process), adding and displaying validations for react forms, implementing protected routes, extracting the data from asynchronous functions, integrating Amazon Web Services (AWS), implementing JSON Web Tokens (JWT) for user authentication/authorization, uploading and managing images, designing my own logo out of custom React components, designing users' profile pages, ....
 * When becoming a developer, many people write, "Former ..."; I write, "Bachelor's degree in Chemical Engineering".
 
-Connect with me on LinkedIn  [Luis Martinez Mosquete](https://www.linkedin.com/in/luis-martinez-mosquete/)
-![img]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+Connect with me on LinkedIn --> [Luis Martinez Mosquete](https://www.linkedin.com/in/luis-martinez-mosquete/)
+
