@@ -1,9 +1,11 @@
 # Hi :smile:, I'm Luis
 
 I enjoy learning new things and taking on challenges as they allow me to discover new ways of solving problems. Here is some more info about me:
-* I recently finished the codesandboxes for a mini version of [DevBlog](https://devblog.dev/) that use the minimum amount of code to achieve data persistence for blog posts. You can take a look at them [here](https://codesandbox.io/s/blog-website-prototype-p4lwp?file=/src/index.js) and [here](https://codesandbox.io/s/draft-js-wysiwygstable-53qnq); I wrote two supporting articles that explain how the code works in the codesandboxes [here](https://devblog.dev/posts/155) and [here](https://devblog.dev/posts/136), respectively.
-* I'm currenlty working on DevBlog, a React JS, Redux, and Ruby on Rails blog website. [Clcik here to access DevBlog](https://luisdevblog.netlify.app/). 
-* Learning a ton from DevBlog --> sending emails to users upon registration, all sorts of react hooks, custom hooks, using, managing state and customizing a text editor (Draft JS), adding and displaying validations for react forms, implementing protected routes, extracting the data from asynchronous functions, integrating Amazon Web Services (AWS), implementing JSON Web Tokens (JWT), uploading and managing images, working with iframes, designing my own logo out of custom React components, designing users' profile pages, ....
+• I recently finished integrating email verification and password reset into [DevBlog](https://devblog.dev/). I wanted to write the least amount of code, so I came up with some clever solutions: handled email verification with just 2 routes in the frontend, and handled password reset with a master component that renders 4 different components (including two forms) with just 2 routes (take a look at devblog-frontend/src/components/users/EmcailConfirmation.js and devblog-frontend/src/components/users/PasswordReset.js, respectively).
+Would like more context? Take a look at this [post]()
+
+* I finished the codesandboxes for a mini version of [DevBlog](https://devblog.dev/) that use the minimum amount of code to achieve data persistence for blog posts. You can take a look at them [here](https://codesandbox.io/s/blog-website-prototype-p4lwp?file=/src/index.js) and [here](https://codesandbox.io/s/draft-js-wysiwygstable-53qnq); I wrote two supporting articles that explain how the code works in the codesandboxes [here](https://devblog.dev/posts/155) and [here](https://devblog.dev/posts/136), respectively. What's cool about the codesanboxes? They run as an app in production, and all of your changes are saved (persisted) in real time!!!
+
 * When becoming a developer, many people write, "Former ..."; I write, "Bachelor's degree in Chemical Engineering!".
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/luis-martinez-mosquete/)
