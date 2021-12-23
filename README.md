@@ -1,6 +1,7 @@
 # Hi :smile:, I'm Luis
 
 I enjoy learning new things and taking on challenges as they allow me to discover new ways of solving problems. Here is some more info about me:
+
 • I recently finished integrating email verification and password reset into [DevBlog](https://devblog.dev/). I wanted to write the least amount of code, so I came up with some clever solutions: handled email verification with just 2 routes in the frontend, and handled password reset with a master component that renders 4 different components (including two forms) with just 2 routes (take a look at devblog-frontend/src/components/users/EmcailConfirmation.js and devblog-frontend/src/components/users/PasswordReset.js, respectively).
 Would like more context? Take a look at this [post]()
 
