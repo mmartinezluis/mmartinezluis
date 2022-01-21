@@ -9,5 +9,5 @@ Would like more context? Take a look at this [post](https://www.linkedin.com/pos
 
 * Currently working on [DevBlog](https://github.com/mmartinezluis/devblog-frontend), a React JS, Redux, and Ruby on Rails website for coding-related blog posts. I'm now working on settting up cleanup assynchronous taks in DevBlog's [Ruby on Rails API](https://github.com/mmartinezluis/devblog-backend-postgres) for the email verificaiton and password reset functionalities. I'm integrating Sidekiq and Redis to achieve these functionalities. 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/luis-martinez-mosquete/)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/luis-martinez-mosquete/)!!!
 
