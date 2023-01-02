@@ -7,3 +7,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/luis-martinez-mosquete
 
 [![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinezluis)](https://github.com/mmartinezluis/github-readme-stats)
 
+![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinezluis&theme=algolia&show_icons=true)
+
