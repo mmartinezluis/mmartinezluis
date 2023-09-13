@@ -4,4 +4,4 @@ I enjoy learning new things and taking on challenges as they allow me to discove
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/luis-martinez-mosquete/)!
 
-#![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinezluis&theme=algolia&show_icons=true)
+<!-- ![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinezluis&theme=algolia&show_icons=true) -->
